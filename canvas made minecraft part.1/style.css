@@ -1,0 +1,40 @@
+body
+{
+    background-image:url(back-gorund-minecraft.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#MyCanvas
+{
+    border-width:10px;
+    background-image:url(canvas-grass_block-back-ground.jpg);
+    border-style:ridge;
+    border-color:aquamarine;
+}
+
+h2 
+{
+    height:32px;
+    width:185px;
+    position:center;
+}
+
+h3
+{
+    display: inline-block;
+    height:9px;
+    position:center;
+}
+
+h4
+{
+    width:63px;
+    height:20px;
+    position:center;
+}
+
+h5
+{
+    width:520px;
+    height:15px;
+}
